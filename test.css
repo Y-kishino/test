@@ -1,0 +1,28 @@
+div{
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   color: brown;
+}
+.waguri{
+    color: blue;
+}
+#kuramoti{
+    color: chartreuse;
+}
+
+.box{
+    width: 80%;
+    margin: 0 auto;
+    border: 1px solid black;
+    display: flex;
+    justify-content: space-around;
+    align-items:end;
+}
+.content{
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+    border: 1px solid black;
+}
+span{
+    color: crimson;
+}

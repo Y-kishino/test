@@ -9,8 +9,8 @@ import youtuber from "./foo";
 
 youtuber.list.entertaiment.youtuber[0].name;
 
-// const a = youtuber.list.business.age[0].name;
-// console.log("a");
+const a = youtuber.list.business.age[0].name;
+console.log("a");
 
 
 
